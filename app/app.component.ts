@@ -30,7 +30,7 @@ import './rxjs-operators';
         <td>{{result.about_me}}</td>
         <td>{{result.address}}</td>
         <td>{{result.favourite_book}}</td>
-        <td>{{result.favourite_colors}}</td>
+        <td>{{result.favourite_colours}}</td>
         <td>{{result.gender === 1 ? 'Male' : result.gender === 2 ? 'Female' : ''}}</td>
         <td>{{result.is_complete ? 'Yes' : 'No'}}</td>
       </tr>
